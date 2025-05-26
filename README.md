@@ -35,9 +35,31 @@
 
 ### 🛠️ Tech Stack
 
+#### 👨‍💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,html,css,dotnet,nodejs,angular,react,mongodb,postman,git,bitbucket,vscode,visualstudio,rider,webstorm,md" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,html,css,md" />
 </p>
+
+#### 🧰 Frameworks & Libraries  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,angular" />
+</p>
+
+#### 🗄️ Databases  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+#### 🧪 Tools & Utilities  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postman,git,bitbucket" />
+</p>
+
+#### 💻 IDEs & Editors  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm" />
+</p>
+
 
 ---
 
