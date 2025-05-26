@@ -1,16 +1,154 @@
-## Hi there 👋
+<!-- HEADER -->
 
-<!--
-**prodipdatta7/prodipdatta7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Prodip Datta</h1>
+<h3 align="center">A passionate full-stack developer from Bangladesh 🇧🇩</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7A52A&center=true&vCenter=true&lines=Full-Stack+Developer;Loves+Clean+Code;Fan+of+System+Design;Always+Learning"/>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views (flat)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Visitors&color=0e75b6&style=for-the-badge" alt="Visitors (flat-square)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=👀%20View%20Counter&color=0e75b6&style=for-the-badge" alt="View Counter (for-the-badge)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=✨%20GitHub%20Profile%20Hits&color=0e75b6&style=for-the-badge" alt="GitHub Profile Hits (social)" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on full-stack web development using **Angular & .NET**
+- 🌱 I’m currently learning **System Design** to build scalable systems
+- 👯 I’m looking to collaborate on **modular, clean, and enterprise-grade applications**
+- 🤝 I’m happy to help with **.NET, Angular, MongoDB, and clean architecture**
+- 💬 Ask me about anything related to **C#, Web APIs, MongoDB, RxJS, and TypeScript**
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prodip-datta/)
+- ⚡ Fun fact: I like transforming messy legacy logic into elegant modular designs
+
+---
+
+### 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,angular,react,nodejs,ts,js,mongodb,html,css,git,bitbucket,vscode,visualstudio,rider,postman,webstorm,md" />
+</p>
+
+---
+
+### 🛠️ Operating Systems
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
+</p>
+
+---
+
+### 🏅 Competitive Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=codeforces,leetcode,codechef,hackerrank,atcoder" alt="Competitive Programming Platforms" />
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-prodipdatta7-005FFF?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-prodipdatta7-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-prodipdatta7-2565AF?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-prodipdatta7-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+  &nbsp;
+  <a href="https://atcoder.jp/users/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-prodipdatta7-1F8ACB?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
+  </a>
+</p>
+
+<p align="center">
+  ![Codeforces Stats](https://cf-stats-api.vercel.app/api?handle=prodipdatta7)
+  &nbsp;&nbsp;
+  ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=dark)
+</p>
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=prodipdatta7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&border_radius=12" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodipdatta7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=12" />
+    </td>
+  </tr>
+</table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prodipdatta7&theme=tokyonight&hide_border=true&border_radius=12" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prodipdatta7&theme=radical&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</p>
+
+---
+
+### 🌱 Contributions
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prodipdatta7&theme=tokyo-night&area=true&hide_border=true" />
+</p>
+
+---
+
+### ✨ Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+<div align="center">
+  
+  <a href="https://github.com/prodipdatta7/department">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipdatta7&repo=department&theme=tokyonight&hide_border=true" />
+  </a>
+</div>
+
+---
+
+## 🐍 A Snake Eating my Contributions Graph
+	
+<p align="center">
+  <img src="https://github.com/prodipdatta7/prodipdatta7/blob/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
+</p>
+
+---
+
+### 📬 Let's Connect!
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/prodip-datta/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prodipdatta7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/prodipdatta7"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://wa.me/8801763767097"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp""> </a>
+</p>
