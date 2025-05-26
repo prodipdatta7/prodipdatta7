@@ -114,6 +114,16 @@
 
 ---
 
+### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodipdatta7&theme=tokyonight)
+  
+ </div>
+ 
+---
+
 ### 📈 GitHub Stats
 
 <div align="center">
@@ -121,7 +131,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=prodipdatta7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&border_radius=12" />
+      <img src="https://github-readme-stats.vercel.app/api?username=prodipdatta7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&rank_icon=percentile&border_radius=12" />
     </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prodipdatta7&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&border_radius=12" />
