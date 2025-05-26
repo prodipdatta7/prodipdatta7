@@ -47,17 +47,23 @@
 
 #### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 </p>
 
 #### 🧪 Tools & Utilities  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,git,bitbucket" />
+  <img src="https://skillicons.dev/icons?i=postman,git,github,bitbucket" />
+</p>
+
+#### 🔌 API Technologies  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://img.shields.io/badge/REST-API-%2300ADD8?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
 #### 💻 IDEs & Editors  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm,sublime" />
 </p>
 
 
