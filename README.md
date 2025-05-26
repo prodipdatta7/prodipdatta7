@@ -36,7 +36,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,dotnet,angular,react,nodejs,ts,js,mongodb,html,css,git,bitbucket,vscode,visualstudio,rider,postman,webstorm,md" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,ts,js,html,css,dotnet,nodejs,angular,react,mongodb,postman,git,bitbucket,vscode,visualstudio,rider,webstorm,md" />
 </p>
 
 ---
@@ -76,12 +76,13 @@
     <img src="https://img.shields.io/badge/AtCoder-prodipdatta7-1F8ACB?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
   </a>
 </p>
-
+<!--
 <p align="center">
   ![Codeforces Stats](https://cf-stats-api.vercel.app/api?handle=prodipdatta7)
   &nbsp;&nbsp;
   ![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=dark)
 </p>
+-->
 
 ---
 
