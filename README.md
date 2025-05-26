@@ -164,7 +164,7 @@
 <div align="center">
   
   <a href="https://github.com/prodipdatta7/department">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipdatta7&repo=department&theme=tokyonight&hide_border=true" />
+    <img align="center" width="500" src="https://github-readme-stats.vercel.app/api/pin/?username=prodipdatta7&repo=department&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
@@ -181,8 +181,8 @@
 ### 📬 Let's Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prodip-datta/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:prodipdatta7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/prodipdatta7"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://wa.me/8801763767097"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp""> </a>
+  <a href="https://www.linkedin.com/in/prodip-datta/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prodipdatta7@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/prodipdatta7"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://wa.me/8801763767097"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp""> </a>
 </p>
