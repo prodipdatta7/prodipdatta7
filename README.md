@@ -1,5 +1,10 @@
 <!-- HEADER -->
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/985ab56e-eff0-477d-9acc-9765fc9a1156"
+       width="150"
+       style="border-radius: 50%; border: 2px solid #0e75b6; box-shadow: 0px 4px 10px rgba(0,0,0,0.2);"
+       alt="Prodip Datta" />
+</p>
 <h1 align="center">Hi 👋, I'm Prodip Datta</h1>
 <h3 align="center">A passionate full-stack developer from Bangladesh 🇧🇩</h3>
 
