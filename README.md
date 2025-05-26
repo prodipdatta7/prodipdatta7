@@ -13,10 +13,10 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views (flat)" />
-  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Visitors&color=0e75b6&style=for-the-badge" alt="Visitors (flat-square)" />
-  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=👀%20View%20Counter&color=0e75b6&style=for-the-badge" alt="View Counter (for-the-badge)" />
-  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=✨%20GitHub%20Profile%20Hits&color=0e75b6&style=for-the-badge" alt="GitHub Profile Hits (social)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Profile%20views&color=0e75b6&style=social" alt="Profile views (flat)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=Visitors&color=0e75b6&style=social" alt="Visitors (flat-square)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=👀%20View%20Counter&color=0e75b6&style=social" alt="View Counter (for-the-badge)" />
+  <img src="https://komarev.com/ghpvc/?username=prodipdatta7&label=✨%20GitHub%20Profile%20Hits&color=0e75b6&style=social" alt="GitHub Profile Hits (social)" />
 </p>
 
 ---
