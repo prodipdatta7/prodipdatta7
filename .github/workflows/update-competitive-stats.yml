@@ -1,0 +1,38 @@
+name: Update Competitive Programming Stats
+
+on:
+  schedule:
+    - cron: '0 8 * * *'  # Daily at 8 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repo
+      uses: actions/checkout@v3
+
+    - name: Fetch competitive programming stats
+      id: fetch_stats
+      run: |
+        CF_BADGE="![Codeforces Stats](https://cf-stats-api.vercel.app/api?handle=prodipdatta7)"
+        LC_BADGE="![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=dark)"
+        CC_BADGE="![CodeChef Stats](https://github-readme-stats.vercel.app/api/pin/?username=prodipdatta7&repo=codechef-stats&title_color=ffffff&icon_color=FFFFFF&text_color=FFFFFF&bg_color=000000)"
+        HR_BADGE="![HackerRank Stats](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat&logo=hackerrank&logoColor=white)"
+        ATC_BADGE="![AtCoder Stats](https://img.shields.io/badge/AtCoder-Profile-1F8ACB?style=flat&logo=atcoder&logoColor=white)"
+
+        echo "::set-output name=stats::$CF_BADGE  $LC_BADGE  $CC_BADGE  $HR_BADGE  $ATC_BADGE"
+
+    - name: Update README.md with latest stats
+      run: |
+        STATS="${{ steps.fetch_stats.outputs.stats }}"
+        sed -i -e '/<!-- COMPETITIVE_STATS -->/{n;s/.*/'"$STATS"'/;}' README.md
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "github-actions[bot]"
+        git config user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "chore: update competitive programming stats [skip ci]" || echo "No changes to commit"
+        git push
