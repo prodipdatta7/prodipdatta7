@@ -27,7 +27,7 @@ jobs:
     - name: Update README.md with latest stats
       run: |
         STATS="${{ steps.fetch_stats.outputs.stats }}"
-        sed -i -e '/<!-- COMPETITIVE_STATS -->/{n;s/.*/'"$STATS"'/;}' README.md
+        sed -i -e '/<!-- COMPETITIVE_STATS -->/{n;s|.*|'"$STATS"'|;}' README.md
 
     - name: Commit and push changes
       run: |
