@@ -57,7 +57,7 @@
 
 #### 🔌 API Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=graphql" />
+  <img src="https://img.shields.io/badge/_Graphql-%2300ADD8?style=for-the-badge&logo=api&logoColor=white" />
   <img src="https://img.shields.io/badge/REST-API-%2300ADD8?style=for-the-badge&logo=api&logoColor=white" />
 </p>
 
@@ -66,81 +66,10 @@
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,rider,webstorm,sublime" />
 </p>
 
-
----
-
-### 🛠️ Operating Systems
+#### 🛠️ Operating Systems
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu" />
-</p>
-
----
-
-### 🏅 Competitive Programming
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=codeforces,leetcode,codechef,hackerrank,atcoder" alt="Competitive Programming Platforms" />
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/prodipdatta7" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-005FFF?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
-  </a>
-  &nbsp;
-  <a href="https://leetcode.com/prodipdatta7" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.codechef.com/users/prodipdatta7" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-2565AF?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerearth.com/@prodipdatta7/" target="_blank">
-    <img src="https://img.shields.io/badge/Hackerearth-2EC866?style=flat&logo=hackerearth&logoColor=white" alt="Hackerearth Profile" />
-  </a>
-  &nbsp;
-  <a href="https://www.hackerrank.com/profile/Prodip_Datta" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
-  </a>
-  &nbsp;
-  <a href="https://atcoder.jp/users/prodipdatta7" target="_blank">
-    <img src="https://img.shields.io/badge/AtCoder-1F8ACB?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
-  </a>
-</p>
-
-<!--
-<p align="justify">
-	<img src="https://codeforces-readme-stats.vercel.app/api/card?username=prodipdatta7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codefroces Stats" />
-	&nbsp;&nbsp;
-	<img src="https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=Dark" alt="Leetcode Stats" />
-
-</p>
--->
-
-<div align=center>
-	
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prodipdatta7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/prodipdatta7)
-
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
-
-[![AtCoder stats](https://atcoder-readme-stats.vercel.app/stats/prodipdatta7?width=450&height=200&theme=darcula&show_icons=true)](https://github.com/iwbc-mzk/atcoder-readme-stats)
-
-</div>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/prodipdatta7">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prodipdatta7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
-  </a>
-  <a href="https://github.com/JeremyTsaii/leetcode-stats">
-    <img src="https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=Dark" alt="LeetCode Stats" />
-  </a>
-  <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
-    <img src="https://atcoder-readme-stats.vercel.app/stats/prodipdatta7?width=450&height=200&theme=darcula&show_icons=true" alt="AtCoder Stats" />
-  </a>
-  <a href="https://www.codechef.com/users/prodipdatta7">
-    <img src="https://codechef-readme-stats.onrender.com/prodipdatta7?v=1" alt="CodeChef Stats" />
-  </a>
 </p>
 
 ---
@@ -189,6 +118,66 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prodipdatta7&theme=tokyo-night&area=true&hide_border=true" />
 </p>
+
+---
+
+### 🏅 Competitive Programming
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=codeforces,leetcode,codechef,hackerrank,atcoder" alt="Competitive Programming Platforms" />
+</p>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-005FFF?style=flat&logo=codeforces&logoColor=white" alt="Codeforces Profile" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=flat&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.codechef.com/users/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-2565AF?style=flat&logo=codechef&logoColor=white" alt="CodeChef Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerearth.com/@prodipdatta7/" target="_blank">
+    <img src="https://img.shields.io/badge/Hackerearth-2EC866?style=flat&logo=hackerearth&logoColor=white" alt="Hackerearth Profile" />
+  </a>
+  &nbsp;
+  <a href="https://www.hackerrank.com/profile/Prodip_Datta" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white" alt="HackerRank Profile" />
+  </a>
+  &nbsp;
+  <a href="https://atcoder.jp/users/prodipdatta7" target="_blank">
+    <img src="https://img.shields.io/badge/AtCoder-1F8ACB?style=flat&logo=atcoder&logoColor=white" alt="AtCoder Profile" />
+  </a>
+</p>
+
+<div align=center>
+	
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=prodipdatta7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/prodipdatta7)
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+
+[![AtCoder stats](https://atcoder-readme-stats.vercel.app/stats/prodipdatta7?width=450&height=200&theme=darcula&show_icons=true)](https://github.com/iwbc-mzk/atcoder-readme-stats)
+
+</div>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/prodipdatta7">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=prodipdatta7&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" alt="Codeforces Stats" />
+  </a>
+  <a href="https://github.com/JeremyTsaii/leetcode-stats">
+    <img src="https://leetcode-stats.vercel.app/api?username=prodipdatta7&theme=Dark" alt="LeetCode Stats" />
+  </a>
+  <a href="https://github.com/iwbc-mzk/atcoder-readme-stats">
+    <img src="https://atcoder-readme-stats.vercel.app/stats/prodipdatta7?width=450&height=200&theme=darcula&show_icons=true" alt="AtCoder Stats" />
+  </a>
+  <a href="https://www.codechef.com/users/prodipdatta7">
+    <img src="https://codechef-readme-stats.onrender.com/prodipdatta7?v=1" alt="CodeChef Stats" />
+  </a>
+</p>
+
 
 ---
 
