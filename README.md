@@ -152,8 +152,6 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prodipdatta7&theme=tokyonight)
   
  </div>
-
- ![CodeChef Stats](https://codechef-readme-stats.onrender.com/prodipdatta7?v=1)
  
 ---
 
