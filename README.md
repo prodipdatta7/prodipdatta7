@@ -221,13 +221,6 @@
   </a>
 </div>
 
----
-
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8079f178-dc66-476f-addd-3dd2440c5010" alt="Snake Game"/>
-</p>
 
 ---
 
