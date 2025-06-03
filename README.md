@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on **modular, clean, and enterprise-grade applications**
 - 🤝 I’m happy to help with **.NET, Angular, MongoDB, and clean architecture**
 - 💬 Ask me about anything related to **C#, Web APIs, MongoDB, RxJS, and TypeScript**
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/prodip-datta/)
+- 📫 How to reach me: [Let's Connect](#-lets-connect)
 - ⚡ Fun fact: I like transforming messy legacy logic into elegant modular designs
 
 ---
